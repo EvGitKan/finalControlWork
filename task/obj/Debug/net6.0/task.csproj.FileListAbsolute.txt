@@ -1,0 +1,15 @@
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\bin\Debug\net6.0\task.exe
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\bin\Debug\net6.0\task.deps.json
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\bin\Debug\net6.0\task.dll
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\bin\Debug\net6.0\task.pdb
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.dll
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.pdb
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\zhe31\Desktop\Знакомство с языками программирования (семинары)\finalControlWork\task\obj\Debug\net6.0\ref\task.dll
